@@ -1,27 +1,54 @@
-# Assiette-restaurant
-Restaurant 
-Description du Site Web
-1. Page d'accueil
-En-tête : Logo du restaurant, menu de navigation (Accueil, Menu, Réservations, À propos, Contact).
-Bannière : Une grande image de plats typiques congolais avec un slogan accrocheur.
-Présentation : Une section présentant l'histoire du restaurant et sa philosophie culinaire.
-2. Menu
-Liste des plats : Une présentation visuelle des plats avec des images, descriptions et prix.
-Filtres : Options pour filtrer par type de plat (entrées, plats principaux, desserts, boissons).
-3. Réservations
-Formulaire de réservation : Champs pour le nom, la date, l'heure, le nombre de personnes et un message spécial.
-Validation en JavaScript : Vérification des champs avant l'envoi du formulaire.
-4. À propos
-Histoire : Une section détaillant l'origine du restaurant et les valeurs de l'équipe.
-Équipe : Présentation des chefs et du personnel avec de courtes biographies.
-5. Contact
-Informations de contact : Adresse, numéro de téléphone, adresse e-mail.
-Carte interactive : Intégration d'une carte Google Maps pour localiser le restaurant.
-Formulaire de contact : Pour les demandes d'information ou les commentaires.
-6. Pied de page
-Liens vers les réseaux sociaux.
-Informations sur les droits d'auteur.
-Technologies Utilisées
-HTML : Structure de base du site.
-CSS : Styles pour rendre le site attrayant et responsive.
-JavaScript : Interactivité, notamment pour le formulaire de réservation et les filtres du menu.
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/L’Assiette Restaurant)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/L’Assiette Restaurant?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/L’Assiette Restaurant?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+
+  <br />
+  <br />
+
+  <h2 align="center">L’Assiette Restaurant - Restaurant Website</h2>
+
+  L’Assiette Restaurant is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+  <a href="https://codewithsadee.github.io/L’Assiette Restaurant/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![L’Assiette Restaurant Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **L’Assiette Restaurant** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/L’Assiette Restaurant.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/L’Assiette Restaurant.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
