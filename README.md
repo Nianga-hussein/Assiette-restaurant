@@ -13,7 +13,7 @@
 
   L’Assiette Restaurant is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/L’Assiette Restaurant/"><strong>➥ Live Demo</strong></a>
+  
 
 </div>
 
@@ -47,8 +47,7 @@ git clone https://github.com/codewithsadee/L’Assiette Restaurant.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
